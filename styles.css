@@ -42,18 +42,18 @@ body{
 .description{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: end;
     text-align: center;
     margin-top: 10px;
     width: 100%;
+    height: auto;
     font-size: 18px;
 }
 .description p{
     width: 80%;
 }
 
-.flex-container img{
-    width: 100%;
+.video{
     margin-top: 20px;
     margin-bottom: 20px;
 }
